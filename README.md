@@ -87,7 +87,7 @@ Stores were segmented by age—Young, Mid, and Mature—to see if longevity pred
 
 A few stores repeatedly ranked at the bottom: Durango 1, Cuernavaca, Campeche 2, Tolucaz, and La Paz 1. Their average revenues hovered around ~$100K in both years, with no sign of improvement. This consistency signals deeper structural issues like weak local demand, poor execution, or mismatched product mix. Identifying these underperformers is vital for targeted intervention rather than broad company-wide fixes.
 
-You can interact with the dashboard here  
+You can interact with the dashboard [here] (https://app.powerbi.com/view?r=eyJrIjoiYWJhZjBiYzAtMjE1OC00MTEwLWE5MmItMDJhM2VkYWUzYzYyIiwidCI6ImQ5OTY0Y2ExLTZkNDktNGExYi05NTdkLWM0ODMxNmU4ZWZhNSJ9)
 
 ## Conclusion:
 
